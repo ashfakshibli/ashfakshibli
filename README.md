@@ -49,7 +49,7 @@ TECHNOLOGIES = {
 - Novel Smish Score (0-100) system for threat detection
 - Integration with ChatGPT, Gemini AI, and BERT models
 - Published at IEEE S&P and ISDFS conferences
-- [Dataset Analysis Repository](https://github.com/ashfakshibli/PHI_FLOW)
+- [Repository](https://github.com/ashfakshibli/x-dsmish) - will be public after all of our research work is published.
 
 ### 🏥 Healthcare Data Protection Research
 - Enhanced U.S. healthcare security through automated analysis
@@ -58,10 +58,10 @@ TECHNOLOGIES = {
 - [PHI Analysis Repository](https://github.com/ashfakshibli/PHI_FLOW)
 
 ## 📚 Latest Publications
-1. ["Use of LLM-based Generative AI Chatbots for Smishing Attacks and Defenses"](https://sp2024.ieee-security.org/downloads/SP24-posters/sp24posters-final19.pdf) - IEEE S&P 2024
-2. ["AbuseGPT: Abuse of Generative AI ChatBots to Create Smishing Campaigns"](https://ieeexplore.ieee.org/abstract/document/10527300) - ISDFS 2024
-3. ["Survey on Security Attacks in Connected and Autonomous Vehicular Systems"](https://ieeexplore.ieee.org/abstract/document/10397929) - IEEE ICOCO 2023
-4. ["Developing a Vision-Based Driving Assistance System"](https://doi.org/10.1007/978-981-13-1951-8_71) - ICITDMS 2018
+1. "Use of LLM-based Generative AI Chatbots for Smishing Attacks and Defenses" [Poster Link](https://sp2024.ieee-security.org/downloads/SP24-posters/sp24posters-final19.pdf) - IEEE S&P 2024
+2. "AbuseGPT: Abuse of Generative AI ChatBots to Create Smishing Campaigns" [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10527300) - ISDFS 2024
+3. "Survey on Security Attacks in Connected and Autonomous Vehicular Systems"[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10397929) - IEEE ICOCO 2023
+4. "Developing a Vision-Based Driving Assistance System" [Springer](https://doi.org/10.1007/978-981-13-1951-8_71) - ICITDMS 2018
 
 ## 📈 Contribution Activity
 
@@ -78,9 +78,7 @@ TECHNOLOGIES = {
 
 💡 "Security is not a product, but a process." - Bruce Schneier
 
-<details>
-<summary>📊 More Stats</summary>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ashfakshibli&color=brightgreen)
 
-</details>
