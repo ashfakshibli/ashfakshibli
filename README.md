@@ -37,6 +37,10 @@ TECHNOLOGIES = {
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ashfakshibli&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
+## 🎯 LeetCode Progress
+[![LeetCode Stats](https://leetcard.jacoblin.cool/ashfakshibli?theme=dark&font=Noto%20Sans)](https://leetcode.com/ashfakshibli)
+
+
 ## 🚀 Featured Projects
 
 ### 🏃‍♂️ AI Sports Performance Analysis System
