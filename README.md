@@ -12,15 +12,41 @@ Technology leader with expertise in artificial intelligence, cybersecurity, and 
 - 📱 Building secure mobile applications
 
 ## 🛠️ Tech Stack
-```python
-LANGUAGES = ['Swift', 'Python', 'C#', 'C++', 'PHP', 'JavaScript', 'SQL']
-TECHNOLOGIES = {
-    'Cloud & DevOps': ['Google Cloud Platform', 'Firebase', 'CI/CD'],
-    'Database': ['MySQL', 'NoSQL'],
-    'Tools': ['Git', 'JIRA', 'Confluence', 'Postman'],
-    'Testing': ['Unit Testing', 'Automated Testing']
-}
-```
+
+### Programming Languages & Frameworks
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Cloud & DevOps
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Testing](https://img.shields.io/badge/Testing-009688?style=for-the-badge&logo=testing-library&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
 
 ## 🎓 Education
 - **M.S. in Computer Science** (GPA: 4.00/4.00)
@@ -39,8 +65,10 @@ TECHNOLOGIES = {
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ashfakshibli&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-### 📈 Contribution Overview
+### 📈 Contribution 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashfakshibli&theme=radical)
+
+<!--- ![GitHub Contribution Graph](https://ghchart.rshah.org/409ba5/ashfakshibli) -->
 
 ## 🎯 LeetCode Progress
 [![LeetCode Stats](https://leetcard.jacoblin.cool/ashfakshibli?theme=dark&font=Noto%20Sans)](https://leetcode.com/ashfakshibli)
@@ -93,9 +121,6 @@ TECHNOLOGIES = {
 3. "Survey on Security Attacks in Connected and Autonomous Vehicular Systems"[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10397929) - IEEE ICOCO 2023
 4. "Developing a Vision-Based Driving Assistance System" [Springer](https://doi.org/10.1007/978-981-13-1951-8_71) - ICITDMS 2018
 
-## 📈 Contribution Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/409ba5/ashfakshibli)
 
 ### 📅 This Month's Activity
 ```text
