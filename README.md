@@ -35,27 +35,53 @@ TECHNOLOGIES = {
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ashfakshibli&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashfakshibli&show_icons=true&theme=radical&hide=issues,contribs&count_private=true&include_all_commits=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ashfakshibli&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+### 📈 Contribution Overview
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashfakshibli&theme=radical)
 
 ## 🎯 LeetCode Progress
 [![LeetCode Stats](https://leetcard.jacoblin.cool/ashfakshibli?theme=dark&font=Noto%20Sans)](https://leetcode.com/ashfakshibli)
 
-
 ## 🚀 Featured Projects
 
-### 🏃‍♂️ AI Sports Performance Analysis System
+### 🏃‍♂️ AI Sports Performance Analysis System (Current)
 - Patent-pending technology for sports performance analysis
 - Uses advanced computer vision and deep learning
 - Mobile platform targeted for U.S. athletes and coaches
 - Commercialization planned for 2025
 
-### 🔒 SMS Phishing Detection Research
+### 🏠 Samsung Family Hub Application
+- Implemented secure layered API architecture for sensitive cloud data
+- Engineered robust database system with multi-threaded data integrity protection
+- Reduced system crashes by 99% through comprehensive error handling
+- Developed sophisticated notification systems and data migration protocols
+- Maintained 13% test coverage for critical components
+
+### 🎧 Samsung Galaxy Buds Windows App
+- Architected secure communication protocols for firmware updates
+- Implemented encrypted data transmission and Bluetooth security measures
+- Developed serialization protocols for secure byte stream handling
+- Built REST APIs for authenticated device communication
+- Created secure FOTA (Firmware Over The Air) update system
+- Maintained 15% unit test coverage for security-critical features
+
+### 📝 Samsung Notes - Automated Bug Analysis
+- Engineered automated security and performance testing framework
+- Implemented comprehensive logging of system vulnerabilities
+- Developed crash analytics and I/O anomaly detection
+- Created proactive threat detection system
+- Significantly reduced security and performance incidents in production
+
+### 🔒 SMS Phishing Detection Research (Masters)
 - Novel Smish Score (0-100) system for threat detection
 - Integration with ChatGPT, Gemini AI, and BERT models
 - Published at IEEE S&P and ISDFS conferences
 - [Repository](https://github.com/ashfakshibli/x-dsmish) - will be public after all of our research work is published.
 
-### 🏥 Healthcare Data Protection Research
+### 🏥 Healthcare Data Protection Research (Masters)
 - Enhanced U.S. healthcare security through automated analysis
 - STRIDE threat modeling implementation
 - Protection of sensitive health information
