@@ -6,10 +6,11 @@
 
 ## 🚀 About Me
 Technology leader with expertise in artificial intelligence, cybersecurity, and software engineering. I'm passionate about:
-🔒 Advancing cybersecurity research for U.S. digital infrastructure
-🤖 Developing AI-powered solutions
-🏃‍♂️ Creating innovative sports technology
-📱 Building secure mobile applications
+
+- 🔒 Advancing cybersecurity research for U.S. digital infrastructure
+- 🤖 Developing AI-powered solutions
+- 🏃‍♂️ Creating innovative sports technology
+- 📱 Building secure mobile applications
 
 ## 🛠️ Tech Stack
 
@@ -54,10 +55,10 @@ Technology leader with expertise in artificial intelligence, cybersecurity, and 
   - 2022-2024
 
 ## 🏆 Recent Achievements
-🎯 Patent-pending AI sports technology
-📱 Novel SMS phishing detection system
-🎓 Published research in IEEE & ACM conferences
-🤖 Volunteered as First Lego League Robotics competition manager
+- 🎯 Patent-pending AI sports technology
+- 📱 Novel SMS phishing detection system
+- 🎓 Published research in IEEE & ACM conferences
+- 🤖 Volunteered as First Lego League Robotics competition manager
 
 ## 📊 GitHub Stats
 
