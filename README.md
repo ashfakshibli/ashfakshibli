@@ -31,7 +31,7 @@ Technology leader with expertise in artificial intelligence, cybersecurity, and 
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![RealmDB](https://img.shields.io/badge/RealmDB-47A248?style=for-the-badge&logo=realmdb&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
