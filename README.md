@@ -7,7 +7,7 @@
 ## 🚀 About Me
 Technology leader with expertise in artificial intelligence, cybersecurity, and software engineering. I'm passionate about:
 
-- 🔒 Advancing cybersecurity research for U.S. digital infrastructure
+- 🔒 Advancing cybersecurity research 
 - 🤖 Developing AI-powered solutions
 - 🏃‍♂️ Creating innovative sports technology
 - 📱 Building secure mobile applications
@@ -79,7 +79,7 @@ Technology leader with expertise in artificial intelligence, cybersecurity, and 
 ### 🏃‍♂️ AI Sports Performance Analysis System (Current)
 - Patent-pending technology for sports performance analysis
 - Uses advanced computer vision and deep learning
-- Mobile platform targeted for U.S. athletes and coaches
+- Mobile platform targeted for athletes
 - Commercialization planned for 2025
 
 ### 🏠 Samsung Family Hub Application
@@ -87,7 +87,7 @@ Technology leader with expertise in artificial intelligence, cybersecurity, and 
 - Engineered robust database system with multi-threaded data integrity protection
 - Reduced system crashes by 99% through comprehensive error handling
 - Developed sophisticated notification systems and data migration protocols
-- Maintained 13% test coverage for critical components
+- Maintained test coverage for critical components
 
 ### 🎧 Samsung Galaxy Buds Windows App
 - Architected secure communication protocols for firmware updates
@@ -108,7 +108,7 @@ Technology leader with expertise in artificial intelligence, cybersecurity, and 
 - Novel Smish Score (0-100) system for threat detection
 - Integration with ChatGPT, Gemini AI, and BERT models
 - Published at IEEE S&P and ISDFS conferences
-- [Repository](https://github.com/ashfakshibli/x-dsmish) - will be public after all of our research work is published.
+- [Repository](https://github.com/ashfakshibli/x-dsmish) 
 
 ### 🏥 Healthcare Data Protection Research (Masters)
 - Enhanced U.S. healthcare security through automated analysis
