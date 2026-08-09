@@ -50,9 +50,17 @@ Technology leader with expertise in artificial intelligence, cybersecurity, and 
 
 
 ## 🎓 Education
-- **M.S. in Computer Science** (GPA: 4.00/4.00)
-  - Tennessee Technological University & New Jersey Institute of Technology
-  - 2022-2024
+
+- **M.S. in Computer Science — Tennessee Technological University**
+  - Aug 2023 – Jul 2024
+  - GPA: 4.00/4.00
+  - Degree conferred July 26, 2024
+  - Graduate research in artificial intelligence and cybersecurity
+
+- **Graduate Studies in Computer Science — New Jersey Institute of Technology**
+  - Sep 2022 – Aug 2023
+  - Transferred; no degree awarded
+  - Research in healthcare security, static analysis, and threat modeling
 
 ## 🏆 Recent Achievements
 - 🎯 Patent-pending AI sports technology
@@ -80,7 +88,7 @@ Technology leader with expertise in artificial intelligence, cybersecurity, and 
 - Patent-pending technology for sports performance analysis
 - Uses advanced computer vision and deep learning
 - Mobile platform targeted for athletes
-- Commercialization planned for 2025
+- Product development focused on AI-assisted athlete performance analysis
 
 ### 🏠 Samsung Family Hub Application
 - Implemented secure layered API architecture for sensitive cloud data
@@ -104,13 +112,13 @@ Technology leader with expertise in artificial intelligence, cybersecurity, and 
 - Created proactive threat detection system
 - Significantly reduced security and performance incidents in production
 
-### 🔒 SMS Phishing Detection Research (Masters)
+### 🔒 SMS Phishing Detection Research — Tennessee Tech M.S.
 - Novel Smish Score (0-100) system for threat detection
 - Integration with ChatGPT, Gemini AI, and BERT models
 - Published at IEEE S&P and ISDFS conferences
 - [Repository](https://github.com/ashfakshibli/x-dsmish) 
 
-### 🏥 Healthcare Data Protection Research (Masters)
+### 🏥 Healthcare Data Protection Research — NJIT Graduate Studies
 - Enhanced U.S. healthcare security through automated analysis
 - STRIDE threat modeling implementation
 - Protection of sensitive health information
@@ -120,7 +128,7 @@ Technology leader with expertise in artificial intelligence, cybersecurity, and 
 1. "Use of LLM-based Generative AI Chatbots for Smishing Attacks and Defenses" [Poster Link](https://sp2024.ieee-security.org/downloads/SP24-posters/sp24posters-final19.pdf) - IEEE S&P 2024
 2. "AbuseGPT: Abuse of Generative AI ChatBots to Create Smishing Campaigns" [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10527300) - ISDFS 2024
 3. "Survey on Security Attacks in Connected and Autonomous Vehicular Systems"[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10397929) - IEEE ICOCO 2023
-4. "Developing a Vision-Based Driving Assistance System" [Springer](https://doi.org/10.1007/978-981-13-1951-8_71) - ICITDMS 2018
+4. [“Developing a Vision-Based Driving Assistance System”](https://doi.org/10.1007/978-981-13-1951-8_71) — Presented at IEMIS 2018 and received Best Paper recognition; published in the Springer proceedings volume in 2019.
 
 
 ### 📅 This Month's Activity
